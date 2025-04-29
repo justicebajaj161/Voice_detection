@@ -4,4 +4,7 @@ sounddevice
 numpy
 soundfile
 pydub
+webrtcvad
+SpeechRecognition
+python-dotenv
 dotenv
