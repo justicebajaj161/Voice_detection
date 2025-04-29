@@ -1,0 +1,7 @@
+openai
+chromadb
+sounddevice
+numpy
+soundfile
+pydub
+dotenv
